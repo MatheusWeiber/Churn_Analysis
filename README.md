@@ -53,4 +53,14 @@ The final evaluation proved that accuracy is not the best metric for this busine
 
 ### Confusion Matrix Comparison
 
-(This is where you should paste the side-by-side image of your Model 1 (blue) and Model 3 (green) confusion matrices!)
+![Confusion Matrix Models 1 and 2](https://github.com/MatheusWeiber/Churn_Analysis/assets/123456/link-da-imagem-1.png)
+
+![Confusion Matrix Models 3](https://github.com/MatheusWeiber/Churn_Analysis/assets/123456/link-da-imagem-2.png)
+
+## 💻 Technologies Used
+* **Python**
+* **Pandas** (For data cleaning and manipulation)
+* **Scikit-learn (`sklearn`)** (For `train_test_split`, `StandardScaler`, `class_weight`, and Confusion Matrix)
+* **TensorFlow** and **Keras** (To build and train the Neural Network)
+* **Matplotlib** and **Seaborn** (For plotting graphs and heatmaps)
+* **Git** and **GitHub** (For code versioning)
